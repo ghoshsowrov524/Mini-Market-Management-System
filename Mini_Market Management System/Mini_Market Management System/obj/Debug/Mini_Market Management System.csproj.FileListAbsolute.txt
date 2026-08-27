@@ -1,0 +1,19 @@
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe.config
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.pdb
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI.dll
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI2.dll
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.AssemblyReference.cache
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.LoginForm.resources
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.Properties.Resources.resources
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.GenerateResource.cache
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CoreCompileInputs.cache
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Mar.148EAD2C.Up2Date
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.exe
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.pdb
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SplashForm.resources
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.ProductForm.resources
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.categoryForm.resources
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.CustomerForm.resources
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellingForm.resources
+H:\C# Project\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.AdminForm.resources
